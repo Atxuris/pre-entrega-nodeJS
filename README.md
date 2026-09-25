@@ -23,12 +23,12 @@ Sigue estos pasos para ejecutar el proyecto de forma local:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/Atxuris/pre_entrega_nodeJS.git
+   git clone https://github.com/Atxuris/pre-entrega-nodeJS.git
    ```
 
 2. **Navegar a la carpeta del proyecto:**
    ```bash
-   cd pre_entrega_nodeJS
+   cd pre-entrega-nodeJS
    ```
 
 3. **Instalar las dependencias:**
